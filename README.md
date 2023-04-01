@@ -15,6 +15,11 @@ An efficient and robust implementation of the seminal "Attention Is All You Need
 
 The "Attention Is All You Need" paper introduced the Transformer model, a novel architecture that leverages self-attention mechanisms to achieve state-of-the-art results in various NLP tasks. AllYouNeedIsAttention is a repository dedicated to providing an efficient and user-friendly implementation of the Transformer model, empowering users to explore and adapt it to their specific needs.
 
+![Attention is All You Need Architecture](https://www.tensorflow.org/images/tutorials/transformer/transformer.png)
+
+
+[**_Source_**](https://www.tensorflow.org/images/tutorials/transformer/transformer.png)
+
 ## Requirements and Installation
 
 ### Requirements

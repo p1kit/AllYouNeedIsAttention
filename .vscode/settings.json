@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./all_you_need_is_attention/config"
+    ]
+}
