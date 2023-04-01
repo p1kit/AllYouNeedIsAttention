@@ -1,6 +1,6 @@
 # AllYouNeedIsAttention
 
-This GitHub repository provides a basic implementation of the "Attention Is All You Need" paper (https://arxiv.org/abs/1706.03762), with the primary objective of gaining a better understanding of the attention mechanism in language models.
+This GitHub repository provides a basic implementation of the "Attention Is All You Need" paper (https://arxiv.org/abs/1706.03762), with the primary objective of gaining a better understanding of the attention mechanism in language models. Additionally, I found the blog post by Peter Bloem (https://peterbloem.nl/blog/transformers) to be extremely helpful in gaining a better understanding of the architecture of transformer models + ChatGPT. 
 
 ## Table of Contents
 
